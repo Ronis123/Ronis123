@@ -32,4 +32,4 @@ I am Ronis. I like classical rock and I'm also a graduate degree in phisics. Wor
 
 </div>
 ##
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
