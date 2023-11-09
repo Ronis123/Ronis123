@@ -1,7 +1,13 @@
 ### Hi dear 👋
 I am Ronis. I like classical rock and I'm also a graduate degree in phisics. Working directly with computacional physics. I walk sometimes in the late afternoon.
+<div>
+<img class="image" src="octacat.png" width="800" height="800"/>
+</div>  
+
+##
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  
 <div>
 <a href="https://github.com/Ronis123">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronis123&layout=compact&langs_count=7&theme=dracula"/>
