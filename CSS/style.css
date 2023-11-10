@@ -1,7 +1,8 @@
-body{
-
+div {
+  display: flex;
+  justify-content: center;
 }
 
 img .image{
-   align-items: center;
+  width: 60%;
 }
