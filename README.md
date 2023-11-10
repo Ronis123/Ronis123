@@ -1,7 +1,7 @@
 ### Hi dear 👋
 I am Ronis. I like classical rock and I'm also a graduate degree in phisics. Working directly with computacional physics. I walk sometimes in the late afternoon.
  
- <link href="./CSS/style.css"/>
+ <head>  <link  rel="stylesheet" href="./CSS/style.css"></head>
  
 <div>
 <img class="image" src="octacat.png" width="500" height="500"/>
